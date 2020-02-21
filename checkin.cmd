@@ -1,3 +1,3 @@
 git add -A
-git commit -m "first commit"
+git commit -m "added vanilla"
 git push
