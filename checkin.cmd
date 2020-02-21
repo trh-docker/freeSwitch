@@ -1,3 +1,3 @@
 git add -A
-git commit -m "debian stretch"
+git commit -m "created entry.sh"
 git push
