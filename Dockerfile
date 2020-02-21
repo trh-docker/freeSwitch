@@ -15,7 +15,6 @@ RUN groupadd -r freeswitch && useradd -r -g freeswitch freeswitch
 # vim:set ft=dockerfile:
 # Install FreeSWITCH with vanilla config
 FROM base
-LABEL maintainer="Vitaly Kovalyshyn"
 
 RUN apt -y --quiet update && apt install -y --quiet freeswitch-meta-all \
     && cp -a /usr/share/freeswitch/conf/vanilla /etc/freeswitch \

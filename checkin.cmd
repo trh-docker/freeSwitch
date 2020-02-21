@@ -1,3 +1,3 @@
 git add -A
-git commit -m "added vanilla"
+git commit -m "removed name"
 git push
