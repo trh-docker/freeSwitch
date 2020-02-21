@@ -1,3 +1,3 @@
 git add -A
-git commit -m "first commit"
+git commit -m "created entry.sh"
 git push
