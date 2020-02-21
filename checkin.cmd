@@ -1,3 +1,3 @@
 git add -A
-git commit -m "removed name"
+git commit -m "debian stretch"
 git push

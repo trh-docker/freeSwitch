@@ -1,4 +1,4 @@
-FROM quay.io/spivegin/tlmbasedebian AS base
+FROM debian:stretch AS base
 
 ENV FS_MAJOR 1.10 \
     FS_VERSION 1.10.2 \
